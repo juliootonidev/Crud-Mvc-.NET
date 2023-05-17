@@ -1,0 +1,31 @@
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\appsettings.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\ControleDe Contatos.staticwebassets.runtime.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\ControleDe Contatos.exe
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\ControleDe Contatos.deps.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\ControleDe Contatos.runtimeconfig.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\ControleDe Contatos.dll
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\bin\Debug\net6.0\ControleDe Contatos.pdb
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.csproj.AssemblyReference.cache
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.AssemblyInfoInputs.cache
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.AssemblyInfo.cs
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.RazorAssemblyInfo.cache
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.RazorAssemblyInfo.cs
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\staticwebassets\msbuild.ControleDe Contatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\staticwebassets\msbuild.build.ControleDe Contatos.props
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControleDe Contatos.props
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControleDe Contatos.props
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\scopedcss\bundle\ControleDe Contatos.styles.css
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\scopedcss\projectbundle\ControleDe Contatos.bundle.scp.css
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.dll
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\refint\ControleDe Contatos.dll
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.pdb
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ControleDe Contatos.genruntimeconfig.cache
+C:\Users\Julio Otoni\Desktop\Crud-Mvc-.NET\ControleDe Contatos\ControleDe Contatos\obj\Debug\net6.0\ref\ControleDe Contatos.dll
